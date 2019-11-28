@@ -33,16 +33,15 @@ section>h2 {
 }
 
 section.Chicken>h2 {
-    background-color: #EBDEF0;
+    background-color: #AF7AC5;
 }
 
 section.Beef>h2 {
-    background-color: #EBDEF0;
+    background-color: #AF7AC5;
 }
 
 section.Sushi>h2 {
-    color: #e2e2e2;
-    background-color: #EBDEF0;
+    background-color: #AF7AC5;
 }
 
 section>p {
